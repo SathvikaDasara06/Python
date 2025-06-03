@@ -1,0 +1,6 @@
+name=input("enter your name:")
+print("hello", name)
+age=int(input("what is your age"))
+print("so",name," next year you will be", age+1)
+bin_age=bin(age)
+print("your name in binary is", bin_age)
